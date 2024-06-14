@@ -5,9 +5,9 @@
 
 |       Name      | Student Number | CS Alias (Userid) |  Preferred Email Address  |
 |:---------------:|:--------------:|:-----------------:|:-------------------------:|
-|    Max Baker    |    41636465    |       s0w2b       |  bakermaxim877@gmail.com  |
-| Adwait Kulkarni |    76264498    |       z7y0r       | adwait.kul.2018@gmail.com |
-|    Angus Chow   |    10099935    |   aurus (e7q7w)   |  angus.c.y.chow@gmail.com |
+|    Max Baker    |   
+| Adwait Kulkarni |   
+|    Angus Chow   |  
 
 ### Description
 
