@@ -6,9 +6,9 @@ Reference of code: Sample project from the php section of the course: https://ww
 $success = True;
 $db_conn = NULL;
 $show_debug_alert_messages = True;
-define('_SERVER', "dbhost.students.cs.ubc.ca:1522/stu");
-define('_USERNAME', "ora_aurus");
-define('_PASSWORD', "a10099935");
+define('_SERVER', null);
+define('_USERNAME', null);
+define('_PASSWORD', null);
 
 function debugAlertMessage($message)
 {
