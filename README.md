@@ -3,8 +3,8 @@
 
 #### CPSC 304 Group 26
 
-|       Name      | Student Number | CS Alias (Userid) |  Preferred Email Address  |
-|:---------------:|:--------------:|:-----------------:|:-------------------------:|
+|       Name      |
+|:---------------:|
 |    Max Baker    |   
 | Adwait Kulkarni |   
 |    Angus Chow   |  
